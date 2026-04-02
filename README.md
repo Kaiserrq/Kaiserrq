@@ -5,6 +5,14 @@
 
   <h1 align="center"><b>Hello, I'm Daniel Sanchez👋</b></h1>
 </p>
+Soy Egresado de la carrera de Ing. de Software con IA, inspirado en grandes de la tecnologia como Kevin Mitnick y Alan Turing de Ciberseguridad y de Software.
+Trabajando con APIs, Servidores, Base de datos, Sistema Operativo como Linux, Kali Linux.
+<br>- 🌱 Lenguaje de Programacion:
+  - Java
+  - JavaScript
+  - TypeScript
+  - Python
+<br>- ✔ Si puedes imaginarlo, Puedes programarlo..</br>
 ## Skills:
 
 #### Programming Languages:
@@ -99,6 +107,11 @@
 <span style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </span>
+<br></br>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jaiswal4sudeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/><br/>
+
 <!--/skills --->
 🖥️ My tech stacks :
 
