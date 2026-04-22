@@ -13,7 +13,6 @@ Trabajando con APIs, Servidores, Base de datos, Sistema Operativo como Linux, Ka
   - TypeScript
   - Python
 <br>- ✔ Si puedes imaginarlo, Puedes programarlo..</br>
-## Skills:
 
 #### Programming Languages:
 <span style="margin-right: 15px;">
